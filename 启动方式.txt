@@ -1,0 +1,4 @@
+cmd运行service.msc
+cmd管理员方式运行：net start mysql80			net stop mysql80
+cmd运行：'''mysql [-h 127.0.0.1][-P 3306] -u root -p'''
+		添加完路径之后 mysql -u root -p   ctrl + z退出
